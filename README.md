@@ -48,20 +48,20 @@ Users should be able to:
 ### What I learned
 
 Shadowing a box with CSS
-[```css
+[css
 box-shadow: 0 0.25rem 0.5rem 0 rgba(182, 178, 178, 0.2), 0 0.375rem 1.25rem 0
 rgba(0, 0, 0, 0.19);
 
-````]
+]
 
 Center element with grid layout
-[```css
+[css
 margin: 0.9375rem 1.25rem 0.625rem;
 height: 18.75rem;
 display: grid;
 place-content: center;
 
-```]
+]
 
 ### Continued development
 
@@ -75,4 +75,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [LunK-KML](https://github.com/lunk-kml)
 - Frontend Mentor - [@lunk-kml](https://www.frontendmentor.io/profile/lunk-kml)
-````
